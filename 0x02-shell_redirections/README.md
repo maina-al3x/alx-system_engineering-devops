@@ -1,1 +1,1 @@
-echo
+Shell redirections
