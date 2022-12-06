@@ -1,1 +1,1 @@
-learning shell redirections
+echo
